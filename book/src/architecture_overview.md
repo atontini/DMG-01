@@ -20,7 +20,7 @@ This is the piece of hardware that allows the Game Boy to remember data while it
 
 ### ROM (Read Only Memory)
 
-This is memory that has been "hardcoded" into the machine (hence it being read only). This memory is used to tell the machine how to set itself up (a.k.a bootstrap) to be able to begin accepting instructions as well as to play the [iconic splash screen](https://www.youtube.com/watch?v=ClJWTR_lCL4) on boot.
+This is memory that has been "hardcoded" into the machine (hence it being read only). This memory is used to tell the machine how to set itself up (a.k.a bootstrap) to be able to begin accepting instructions as well as to play the [iconic splash screen](https://www.youtube.com/watch?v=jCfPojZ_xLw) on boot.
 
 Game cartridges are also known as ROMs as they are mostly read only memory as well.
 

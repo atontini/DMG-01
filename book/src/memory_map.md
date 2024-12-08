@@ -4,7 +4,7 @@ Up until now we've been treating the Game Boy's memory as one long array with 0x
 
 ## 0x0000 - 0x00FF: Boot ROM
 
-When the Game Boy first boot's the very bottom 256 bytes of memory is occuppied with the boot ROM. We've talked a little bit about the boot ROM before - how it's responsible for bootstrapping the Game Boy to be able to run a game as well as for playing the [iconic splash screen](https://www.youtube.com/watch?v=ClJWTR_lCL4) on boot. Later in the book, we'll be examining the boot ROM very closely.
+When the Game Boy first boot's the very bottom 256 bytes of memory is occuppied with the boot ROM. We've talked a little bit about the boot ROM before - how it's responsible for bootstrapping the Game Boy to be able to run a game as well as for playing the [iconic splash screen](https://www.youtube.com/watch?v=jCfPojZ_xLw) on boot. Later in the book, we'll be examining the boot ROM very closely.
 
 ## 0x0000 - 0x3FFF: Game ROM Bank 0
 
